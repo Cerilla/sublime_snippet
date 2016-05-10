@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+%!TEX root = ${1:main}.tex
+]]></content>
+  <description>Add main document reference</description>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>usp</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.tex.latex</scope>
+</snippet>
