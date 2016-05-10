@@ -1,14 +1,14 @@
 <snippet>
-  <content><![CDATA[
+	<content><![CDATA[
 \documentclass${2:[${3:10pt}]}{${1:article}}
 
 \begin{document}
 ${4}
 \end{document}
 ]]></content>
-  <description>Document Class</description>
-  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>doc</tabTrigger>
-  <!-- Optional: Set a scope to limit where the snippet will trigger -->
-  <scope>text.tex.latex</scope>
+	<description>Document Class</description>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>doc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
 </snippet>

@@ -1,15 +1,15 @@
 <snippet>
-    <content><![CDATA[
+	<content><![CDATA[
 \begin{figure}[${4:htp}]
-    \centering
-    \includegraphics[${2:option}]{${1:imagepath}}
-    \caption{${3:caption}}
-    \label{fig:${1:imagepath}}
+	\centering
+	\includegraphics[${2:option}]{${1:imagepath}}
+	\caption{${3:caption}}
+	\label{fig:${1:imagepath}}
 \end{figure}
 ]]></content>
-    <description>Figure construct</description>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-    <tabTrigger>fig</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <scope>text.tex.latex</scope>
+	<description>Figure construct</description>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fig</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope>
 </snippet>
