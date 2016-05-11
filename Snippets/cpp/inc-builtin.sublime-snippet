@@ -2,9 +2,9 @@
   <content><![CDATA[
 #include <$1>
 ]]></content>
-  <description>Include built-in header</description>
+  <description>#include &lt;…&gt;</description>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>inb</tabTrigger>
+  <tabTrigger>in&lt;</tabTrigger>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.c++</scope>
 </snippet>
