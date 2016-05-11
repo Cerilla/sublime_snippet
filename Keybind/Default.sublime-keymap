@@ -1,0 +1,10 @@
+[
+  // SassBeautify
+  {
+    "keys": ["ctrl+shift+b"], "command": "sass_beautify",
+    "args": {"action": "beautify"},
+    "context": [
+      { "key": "selector", "operand": "source.scss" }
+    ]
+  }
+]
